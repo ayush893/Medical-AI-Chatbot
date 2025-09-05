@@ -1,0 +1,5 @@
+ctransformers==0.2.5
+sentence-transaformers==2.2.2
+pincode-client
+langchain==0.0.225
+flask
