@@ -1,5 +1,13 @@
-ctransformers==0.2.5
-sentence-transaformers==2.2.2
-pincode-client
-langchain==0.0.225
+sentence-transformers
+transformers
+huggingface_hub
+langchain
+langchain-community
 flask
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain_openai
+langchain_experimental
+langchain-pinecone
+ctransformers
